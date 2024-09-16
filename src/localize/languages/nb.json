@@ -1,3 +1,31 @@
 {
-
+    "common": {
+      "version": "Versjon",
+      "title": "Minimal Sun Moon",
+      "title_card": "Minimal Sun Moon Card",
+      "description": "Et minimalistisk kort for å vise tilstanden til solen og månen.",
+      "invalid_configuration": "Ugyldig konfigurasjon"
+    },
+    "editor": {
+      "moon_entity": "Måneenhet (Valgfritt)"
+    },
+    "errors": {
+      "missing_moon_entity": "moon_entity mangler i konfigurasjonen",
+      "invalid_icon_type": "Følgende farger i konfigurasjonen din er ugyldige:"
+    },
+    "card": {
+      "moon_phase": "Månefase",
+      "moon_rise": "Måneoppgang",
+      "moon_set": "Månenedgang"
+    },
+    "moon": {
+      "new_moon": "Nymåne",
+      "waxing_crescent": "Voksende Månesigd",
+      "first_quarter": "Første Kvartal",
+      "waxing_gibbous": "Voksende Måne",
+      "full_moon": "Fullmåne",
+      "waning_gibbous": "Avtagende Måne",
+      "last_quarter": "Siste Kvartal",
+      "waning_crescent": "Avtagende Månesigd"
+    }
 }
